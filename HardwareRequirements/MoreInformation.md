@@ -17,4 +17,4 @@
 - **Power supply (200W with solar backup):** Ensures uninterrupted 24/7 operation, even during grid power failures.
 - **Network equipment:** Manages secure data flow at locations with multiple cameras.
 - **Mounting systems:** Weatherproof poles provide a stable platform at the optimal height and angle for cameras.
-- **Control room setup:** A central station for monitoring feeds, managing data, and overseeing the automated enforcement process.
+- **Control room setup:** A central station for monitoring feeds, managing data, and overseeing the automated enforcement process. 
