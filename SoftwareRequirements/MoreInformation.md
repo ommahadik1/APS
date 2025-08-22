@@ -64,4 +64,3 @@
 
 ---
 
-All software works closely with hardware (AI cameras, sensors, processors, control room servers) for efficient, robust traffic management.
